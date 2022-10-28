@@ -22,9 +22,9 @@
 
 // Set these to run example.
 #define FIREBASE_HOST "freeroom-box-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "W7x9bMZdrMZ8J8hcohvSDsMq05vjXz3EZp8hs5KX"
+#define FIREBASE_AUTH "**************************************"
 #define WIFI_SSID "My Home"
-#define WIFI_PASSWORD "Kamalkun2207"
+#define WIFI_PASSWORD "*****************"
 
 void setup() {
   Serial.begin(9600);
